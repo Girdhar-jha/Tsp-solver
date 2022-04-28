@@ -1,8 +1,7 @@
 # TSP-Solver
 Interactive travelling salesman problem solver. 
-[Demo](https://andrewb330.github.io/TSP-Solver/)
+[Demo](https://girdhar-jha.github.io/Tsp-solver/)
 
-**WARNING:** The code isn't great at all. It was my university project with a short deadline :) But animations are cool :D
 
 ### Algorithms
 * Branch and bound
